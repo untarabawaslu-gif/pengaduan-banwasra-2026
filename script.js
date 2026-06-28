@@ -1,5 +1,5 @@
 /* =================================================================
-   BAWASRA UNTARA — Sistem Pengaduan PEMIRA 2026
+   BANWASRA UNTARA — Sistem Pengaduan PEMIRA 2026
    Logic formulir: validasi, konversi file, pengiriman ke backend
    ================================================================= */
 
