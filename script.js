@@ -8,7 +8,7 @@
 // Lihat PANDUAN-INSTALASI.md, langkah "Deploy Web App"
 // =====================================================================
 const CONFIG = {
-  WEB_APP_URL: "https://script.google.com/macros/s/AKfycbwNOM1MmHTRofnKifo_pF0mTErac5vywSrdQwXrdVC7c-cac6upRIbFIwIPFUXJIfDB/exec",
+  var GAS_URL = "https://script.google.com/macros/s/AKfycbwUjXfuyywDYYzRewf8Wa-twyAyzV2-eqjQKlnMLLfTcjwXuyvHU4zGh7hFYeVjgWUy/exec",
   MAX_FILE_SIZE_MB: 10,
   MAX_TOTAL_SIZE_MB: 25,
 };
