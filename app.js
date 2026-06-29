@@ -5,7 +5,7 @@
 
 // ⚠️ WAJIB DIGANTI dengan URL Web App Google Apps Script Anda
 // Format: https://script.google.com/macros/s/XXXX.../exec
-const GAS_URL = "GANTI_DENGAN_URL_WEB_APP_ANDA";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbyUJQRJYkGGuZ4SgplLHeOLWsktx9nmV-VyvWsYkijdHjc7QpzXVDgNvO8_Q1VMOPcj/exec";
 
 // ============================================================
 // INISIALISASI
