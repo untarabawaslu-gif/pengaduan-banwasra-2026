@@ -619,3 +619,9 @@ textarea { resize: vertical; font-family: var(--font-body); }
   .brand-name { font-size: 0.92rem; }
   .logo-img { height: 36px; }
 }
+.developer-footer{
+    text-align: center;
+    padding: 24px;
+    font-size: 13px;
+    color: #888;
+}
